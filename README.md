@@ -1,8 +1,6 @@
 ### Hi there 👋, My Name is Tuğrul Sübekci
 #### I am a Junior Game Developer
-I graduated from department of Chemical Engineering at Ankara University. During this period, I took a
-computer programming course that teaches MATLAB and I passed with an A. Then, I realized my
-programming skills. Now, I am improving myself in this field and I have full confidence. I already finished lots of projects.
+I graduated from department of Chemical Engineering at Ankara University. During this period, I took a computer programming course that teaches MATLAB and I passed with an A. Then, I realized my programming skills. Now, I am improving myself in this field and I have full confidence. I got 7 different certificates about Unity and programming. Also, I finished 5 individual projects and joined a game jam. 
 
 Skills: C# / Unity
 
