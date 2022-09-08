@@ -4,7 +4,7 @@ I graduated from department of Chemical Engineering at Ankara University. During
 
 Skills: C# / Unity
 
-- 🔭 I’m currently working on Pacman Clone 
+- 🔭 I’m currently working on my new puzzle game 
 - 🌱 I’m currently learning Unity and C#
 
 
