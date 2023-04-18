@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name is Tuğrul Sübekci
 #### I am a Software Developer from Turkey
 
-Skills: C# / Unity / ShaderLab / Javascript / Node.js / EJS / HTML-CSS
+Skills: C# / Unity / ShaderLab / Javascript / Node.js / EJS / HTML-CSS / MongoDB
 
 - 🔭 I’m currently developing an interior design application with UnityEngine
 - 🌱 I’m currently learning Full Stack Development
