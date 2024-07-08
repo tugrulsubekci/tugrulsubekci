@@ -5,10 +5,68 @@
 ### Hi there 👋, My Name is Tuğrul Sübekci
 #### I am a Software Developer from Turkey
 
-Skills: C# / Unity / ShaderLab
-
-- 🔭 I’m currently developing an interior design application with Unity
+- 🧑‍💼 I’m currently working at [SugarTechnology](https://sugartech.io/)
+- 💻 I'm contributing to [RapidRender](https://rapidrender.app/) which is an interior design application
 - 🌱 I’m always learning new things
+- 📖 I'm reading Clean Code - Robert C. Martin
 
+### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tugrulsubekci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tugrulsubekci/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tugrulsubekci/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg' alt='unity' height='40'>](https://tugrulsubekci.com)  
+[![website](./img/globe-light.svg)](https://tugrulsubekci.me#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://tugrulsubekci.me#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/tugrulsubekci#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tugrulsubekci#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/tugrulsubekci#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/tugrulsubekci#gh-dark-mode-only)
+
+---
+
+### Languages and Tools:
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/unity.svg" width="48" height="48" alt="Unity" />
+      </a>
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/csharp.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/hlsl.svg" width="48" height="48" alt="ShaderLab" />
+      </a>
+      <br>ShaderLab
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/visual-studio.svg" width="48" height="48" alt="Visual Studio" />
+      </a>
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./img/git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a>
+        <img src="./img/database.png" width="48" height="48" alt="Database" />
+      </a>
+      <br>SQL/NoSQL
+    </td>
+    <td align="center"  width="96">
+      <a>
+        <img src="./img/vr.svg" width="48" height="48" alt="Virtual Reality" />
+      </a>
+      <br>Virtual & Mixed Reality
+    </td>
+  </tr>
+</table>
