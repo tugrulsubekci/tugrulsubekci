@@ -5,10 +5,11 @@
 ### Hi there 👋, My Name is Tuğrul Sübekci
 #### I am a Software Developer from Turkey
 
-Skills: C# / Unity / ShaderLab
-
-- 🔭 I’m currently developing an interior design application with Unity
+- 🧑‍💼 I’m currently working at [SugarTechnology](https://sugartech.io/)
+- 💻 I'm contributing to [RapidRender](https://rapidrender.app/) which is an interior design application
 - 🌱 I’m always learning new things
+- 📖 I'm reading Clean Code - Robert C. Martin
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://tugrulsubekci.me#gh-light-mode-only)
