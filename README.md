@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=tugrulsubekci)
+
 <a href="#tugrulsubekci">
   <img src="https://github.com/tugrulsubekci/github-stats-transparent/blob/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
