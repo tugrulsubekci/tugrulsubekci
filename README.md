@@ -4,13 +4,13 @@
   <img src="https://github.com/tugrulsubekci/github-stats-transparent/blob/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-### Hi there 👋, My Name is Tuğrul Sübekci
-#### I am a Software Developer from Turkey
-
+### Hi there 👋, My Name is Tugrul Subekci
+#### I am a Software Developer
+- 📖 Currently, I’m focused on pursuing my MSc in Computer Science at University of Greenwich.
 - 🧑‍💼 I’m currently working at [SugarTechnology](https://sugartech.io/)
 - 💻 I'm contributing to [RapidRender](https://rapidrender.app/) which is an interior design application
 - 🌱 I’m always learning new things
-- 📖 I'm reading Clean Code - Robert C. Martin
+
 
 ### Connect with me:
 
