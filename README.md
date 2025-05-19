@@ -1,24 +1,43 @@
 ![](https://komarev.com/ghpvc/?username=tugrulsubekci)
 
+# 👋 Hi, I'm Tugrul Subekci
+
+- 🎓 MSc Computer Science student at University of Greenwich
+- 💻 Software Engineer | Game Developer | ML Enthusiast
+- 🌍 Based in London, UK
+
+---
+
+## 🚀 About Me
+
+I'm a passionate and curious software engineer with over 3 years of experience in the tech industry. My journey has taken me through game development, full-stack web projects, machine learning, and image processing. I thrive on building impactful tools and immersive experiences.
+
+---
+
+## 🎮 Projects
+
+- 🔹 **Rapid Render** – A cross-platform 3D interior design app used by major Turkish furniture brands
+- 🔹 **Kribich** – A browser-based multiplayer card game
+- 🔹 **Image Anonymization Tool** – A ML-based web app to detect and anonymize faces and license plates
+- 🔹 **Metal Defect Prediction** – ML model for defect classification and lifespan prediction
+
+---
+
+## 📚 Current Focus
+
+- Finishing my MSc thesis on **Machine Learning-Based Image Anonymization**
+- Exploring career opportunities in **Game Development**, **AI/ML** and **Full Stack Development**
+
+---
+
+## 📫 Let's Connect
+
+- ✉️ [Email](mailto:tugrulsubekci@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tugrulsubekci/)
+- 🌐 [Portfolio Website](https://www.tugrulsubekci.me/)
+
+Thanks for stopping by! 😊
+
 <a href="#tugrulsubekci">
-  <img src="https://github.com/tugrulsubekci/github-stats-transparent/blob/output/generated/overview.svg" alt="macropower" align="right" />
+  <img src="https://github.com/tugrulsubekci/github-stats-transparent/blob/output/generated/overview.svg" alt="macropower" align="left" />
 </a>
-
-### Hi there 👋, My Name is Tugrul Subekci
-#### I am a Software Engineer
-- 📖 Currently, I’m focused on pursuing my MSc in Computer Science at University of Greenwich.
-- 🧑‍💼 I’m currently working at [SugarTechnology](https://sugartech.io/)
-- 💻 I'm contributing to [RapidRender](https://rapidrender.app/) which is an interior design application
-- 🌱 I’m always learning new things
-
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://tugrulsubekci.me#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://tugrulsubekci.me#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/tugrulsubekci#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tugrulsubekci#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/tugrulsubekci#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/tugrulsubekci#gh-dark-mode-only)
