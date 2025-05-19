@@ -17,7 +17,7 @@ I'm a passionate and curious software engineer with over 3 years of experience i
 ## 🎮 Projects
 
 - 🔹 **Rapid Render** – A cross-platform 3D interior design app used by major Turkish furniture brands
-- 🔹 **Kribich** – A browser-based multiplayer card game
+- 🔹 **Cribbage** – A browser-based multiplayer card game
 - 🔹 **Image Anonymization Tool** – A ML-based web app to detect and anonymize faces and license plates
 - 🔹 **Metal Defect Prediction** – ML model for defect classification and lifespan prediction
 
