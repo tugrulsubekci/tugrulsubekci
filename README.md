@@ -41,7 +41,3 @@ Thanks for stopping by! 😊
 <a href="#tugrulsubekci">
   <img src="https://github.com/tugrulsubekci/github-stats-transparent/blob/output/generated/overview.svg" alt="macropower" align="left" />
 </a>
-
-<a href="#tugrulsubekci">
-  <img src="https://github.com/tugrulsubekci/github-stats-transparent/blob/output/generated/languages.svg" alt="macropower" align="right" />
-</a>
