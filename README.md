@@ -26,7 +26,7 @@ I'm a passionate and curious software engineer with over 3 years of experience i
 ## 📚 Current Focus
 
 - Finishing my MSc thesis on **Machine Learning-Based Image Anonymization**
-- Exploring career opportunities in **Game Development**, **AI/ML** and **Full Stack Development**
+- Exploring career opportunities in **Full Stack Development**, **AI/ML**
 
 ---
 
