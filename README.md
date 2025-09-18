@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Tugrul Subekci
 
-- 🎓 MSc Computer Science student at University of Greenwich
+- 🎓 Recent MSc Computer Science graduate
 - 💻 Software Engineer | ML Enthusiast
 - 🌍 Based in London, UK
 
